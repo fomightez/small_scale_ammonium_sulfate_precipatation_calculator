@@ -3,7 +3,7 @@
  
 For those not interested in the code behind this and just looking to use the calculator, I'd suggest the web version of this tool [here](http://fomightez.pythonanywhere.com/ammonium_screen/).
 
-The IPython notebook for this tool can be found [here](https://github.com/fomightez/small_scale_ammonium_sulfate_precipatation_calculator/blob/master/small_scale_ammonium_sulfate_precipitation_calc.ipynb) in this repo. In order to have a functional interactive version, you can click the `launch binder` button above. Alternatively, you can of course download it to work on your own computer set up for Jupyter notebooks or use it in the cloud on [Domino Data Lab](http://www.dominodatalab.com/), [Wakari.io](https://www.wakari.io/), or [SageMath Cloud](https://cloud.sagemath.com).
+The IPython notebook for this tool can be found [here](https://github.com/fomightez/small_scale_ammonium_sulfate_precipatation_calculator/blob/master/small_scale_ammonium_sulfate_precipitation_calc.ipynb) in this repo. In order to have a functional interactive version, you can click the `launch binder` button above. Alternatively, you can, of course, download it to work on your own computer set up for Jupyter notebooks or use it in the cloud on [tmpnb.org](http://tmpnb.org), [Domino Data Lab](http://www.dominodatalab.com/), [Wakari.io](https://www.wakari.io/), or [SageMath Cloud](https://cloud.sagemath.com).
 
 The screen this tool designs is based on Rebecca Oot's Small Scale Ammonium Sulfate Precipitation Screen. Rebbeca is a post-doc in Stephan Wilkens' laboratory, Department of Biochemistry and Molecular Biology, Upstate Medical University, Syracuse, New York, and she initially got the protocol for the screen from Erik Kish-Trier, a former graduate student in Stephan's lab.
 
