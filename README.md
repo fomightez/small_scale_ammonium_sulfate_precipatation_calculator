@@ -9,4 +9,6 @@ The screen this tool designs is based on Rebecca Oot's Small Scale Ammonium Sulf
 
 It is intended to aid in choosing conditions for a larger scale precipitation step in a protein purification.  
 
+Click this button to launch a live, interactive [calculator](http://mybinder.org/repo/fomightez/small_scale_ammonium_sulfate_precipatation_calculator/notebooks/small_scale_ammonium_sulfate_precipitation_calc.ipynb) ----> [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/small_scale_ammonium_sulfate_precipatation_calculator/notebooks/small_scale_ammonium_sulfate_precipitation_calc.ipynb) 
+
 Happy precipitating.
