@@ -1,5 +1,5 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fomightez/small_scale_ammonium_sulfate_precipatation_calculator/notebooks/small_scale_ammonium_sulfate_precipitation_calc.ipynb)
-# small_scale_ammonium_sulfate_precipatation_calculator - A  tool facilitating designing a pilot experiment to screen for protein precipitation conditions
+# small_scale_ammonium_sulfate_precipitation_calculator - A  tool facilitating designing a pilot experiment to screen for protein precipitation conditions
  
 For those not interested in the code behind this and just looking to use the calculator, I'd suggest the web version of this tool [here](http://fomightez.pythonanywhere.com/ammonium_screen/).
 
